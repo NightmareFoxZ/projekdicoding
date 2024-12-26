@@ -1,2 +1,0 @@
-# projekdicoding
-Tugas Akhir dicoding
