@@ -22,7 +22,6 @@ Original file is located at
 ## Import Semua Packages/Library yang Digunakan
 """
 
-import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
