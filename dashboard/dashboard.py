@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 
 # Load dataset
 def load_data():
-    data_hari = pd.read_csv('https://github.com/abhararzaqi/projekdicoding/blob/239a4d313cbbca909eecdd478e4091d9a4eb3e10/data/day.csv')
-    data_jam = pd.read_csv('https://github.com/abhararzaqi/projekdicoding/blob/239a4d313cbbca909eecdd478e4091d9a4eb3e10/data/hour.csv')
+    data_hari = pd.read_csv('https://raw.githubusercontent.com/abhararzaqi/projekdicoding/refs/heads/main/data/day.csv')
+    data_jam = pd.read_csv('https://raw.githubusercontent.com/abhararzaqi/projekdicoding/refs/heads/main/data/hour.csv')
     return data_hari, data_jam
 
 data_hari, data_jam = load_data()
